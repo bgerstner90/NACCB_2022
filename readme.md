@@ -12,31 +12,31 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 - Gonzalo Pinilla-Buitrago, City College of New York, CUNY
 
 # Logistics
-Date: Thursday, October 8, 2021
-Time: 2:30 PM to 4:00 PM
-Place: Zoom
+- Date: Thursday, October 8, 2021
+- Time: 2:30 PM to 4:00 PM
+- Place: Zoom
 
 # Pre- and Post-Workshop Survey Links
 Please take the pre- and post-workshop surveys. They really help us!
 
-[Pre-workshop survey](add link)
+- [Pre-workshop survey](add link)
 
-[Post-workshop survey](add link) 
+- [Post-workshop survey](add link) 
 
 # Background R Materials
 You do not need to know this information to effectively begin using Wallace. However, a little R knowledge can go a long way.
 
-[Short introduction to R/RStudio](https://mlammens.github.io/SCCS-R-Wallace/docs/Intro-to-RStudio.html)
-[Even shorter introduction to R/RStudio](https://github.com/bgerstner90/SCCS_2021/blob/f8719086341de081676dd0cf3a77e9d4c18e53f9/Crash-Course-R.html)
+- [Short introduction to R/RStudio](https://mlammens.github.io/SCCS-R-Wallace/docs/Intro-to-RStudio.html)
+- [Even shorter introduction to R/RStudio](https://github.com/bgerstner90/SCCS_2021/blob/f8719086341de081676dd0cf3a77e9d4c18e53f9/Crash-Course-R.html)
 
 # SDM Overview
-ADD SLIDES TO REPO
+- ADD SLIDES TO REPO
 
 # Wallace Resources
-Wallace homepage
-Link to Wallace How-to Vignette
+- Wallace homepage
+- Link to Wallace How-to Vignette
 
 # ‘Beyond Wallace’ Resources
-PDF slide deck covering Data Exploration and Cleaning
-R script file on Data Exploration and Cleaning for data exploration and cleaning
+- PDF slide deck covering Data Exploration and Cleaning
+- R script file on Data Exploration and Cleaning for data exploration and cleaning
 
