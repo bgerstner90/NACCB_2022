@@ -12,8 +12,8 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 - Gonzalo Pinilla-Buitrago, City College of New York, CUNY
 
 # Logistics
-- Date: Thursday, October 8, 2021
-- Time: 2:30 PM to 4:00 PM
+- Date: Thursday, October 7, 2021
+- Time: 1:00 PM to 4:00 PM
 - Place: Zoom
 
 # Pre- and Post-Workshop Survey Links
