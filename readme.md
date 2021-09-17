@@ -1,4 +1,4 @@
-## SCCS-NY 2021 - Species Distribution Modeling for Conservation in R and Wallace A Wallace workshop
+## SCCS-NY 2021 - Species Distribution Modeling for Conservation in R & Wallace: A Wallace workshop
 
 
 # Description
