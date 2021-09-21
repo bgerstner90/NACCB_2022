@@ -17,10 +17,9 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 - Place: Zoom
 
 # Workshop Schedule
--
--
--
--
+- 1:00 - 2:00: Intro to SDMs & Applications
+- 2:00 - 2:30: Wallace overview
+- 2:30 - 4:00: Working with Wallace
 
 # Pre- and Post-Workshop Survey Links
 Please take the pre- and post-workshop surveys. They really help us!
@@ -35,20 +34,22 @@ You do not need to know this information to effectively begin using Wallace. How
 - [Short introduction to R/RStudio](https://mlammens.github.io/SCCS-R-Wallace/docs/Intro-to-RStudio.html)
 - [Even shorter introduction to R/RStudio](https://github.com/bgerstner90/SCCS_2021/blob/f8719086341de081676dd0cf3a77e9d4c18e53f9/Crash-Course-R.html)
 
-# Installing R and Wallace
+# Installing R/RStudio and Wallace
+*Please install R and Wallace prior to this Workshop. Downloading Wallace in R can take a while depending on your computer*
 -
 -
 -
 
 # Data for workshop
+*During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.*
 -
 -
 -
 
 
 # Wallace Specific Resources
-- Wallace homepage
-- Link to Wallace How-to Vignette
+- [Wallace homepage](https://wallaceecomod.github.io/)
+- [Link to Wallace How-to Vignette](https://wallaceecomod.github.io/vignettes/wallace_vignette.html)
 
 
 
