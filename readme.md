@@ -29,13 +29,13 @@ Please take the pre- and post-workshop surveys. They really help us!
 - [Post-workshop survey](add link) 
 
 # Background R Materials
-You do not need to know this information to effectively begin using Wallace. However, this will give you a better understanding of what Wallace is doing behind the scenes (and it may be helpful if you see a future in research!).
+*You do not need to know this information to effectively begin using Wallace. However, this will give you a better understanding of what Wallace is doing behind the scenes (and it may be helpful if you see a future in research!).*
 
 - [Short introduction to R/RStudio](https://mlammens.github.io/SCCS-R-Wallace/docs/Intro-to-RStudio.html)
 - [Even shorter introduction to R/RStudio](https://github.com/bgerstner90/SCCS_2021/blob/f8719086341de081676dd0cf3a77e9d4c18e53f9/Crash-Course-R.html)
 
 # Installing R/RStudio and Wallace
-*Please install R and Wallace prior to this Workshop. Downloading Wallace in R can take a while depending on your computer*
+*Please install R and Wallace prior to this Workshop. Downloading Wallace in R can take a while depending on your computer.*
 -
 -
 -
