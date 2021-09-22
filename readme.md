@@ -42,7 +42,8 @@ Please take the pre- and post-workshop surveys. They really help us!
 
 # Data for workshop
 *During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.*
--[Download Olinguito data here](https://drive.google.com/drive/folders/11E2Dt1Y1BLTE5t0IvQEnUSDagckhvv5M?usp=sharing)
+
+- [Download Olinguito data here](https://drive.google.com/drive/folders/11E2Dt1Y1BLTE5t0IvQEnUSDagckhvv5M?usp=sharing)
 -
 -
 
