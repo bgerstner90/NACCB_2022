@@ -24,9 +24,9 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 # Pre- and Post-Workshop Survey Links
 Please take the pre- and post-workshop surveys. They really help us!
 
-- [Pre-workshop survey](add link)
+- [Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLScObNbLwPsQU8IMeiGBPazdJzc2xodw2JTndC82mCVqSmYY3g/viewform?usp=sf_link)
 
-- [Post-workshop survey](add link) 
+- [Post-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSe5l1W07bwiZ6epCF2nQViDTLXOVmWCtJYKVbFthBxjXWe4qg/viewform?usp=sf_link) 
 
 # Background R Materials
 *You do not need to know this information to effectively begin using Wallace. However, this will give you a better understanding of what Wallace is doing behind the scenes (and it may be helpful if you see a future in research!).*
