@@ -42,6 +42,7 @@ Please take the pre- and post-workshop surveys. They really help us!
 
    - Once you have both R and Rstudio, open Rstudio.
    - In the console write 'install.packages("wallace") and hit enter
+   
    *A note that this will take R quite a while to download so set aside at least 20 minutes for this*
 
 3. Once Wallace is installed (you'll notice in Rstudio the stop button will disappear), you can try and run it. To do this:
