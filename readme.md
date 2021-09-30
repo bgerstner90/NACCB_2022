@@ -36,9 +36,19 @@ Please take the pre- and post-workshop surveys. They really help us!
 
 # Installing R/RStudio and Wallace
 *Please install R and Wallace prior to this Workshop. Downloading Wallace in R can take a while depending on your computer.*
--
--
--
+1. Install R (version ≥ v.3.5.0) and Rstudio 
+
+2. Install the ‘wallace’ package from CRAN (v.1.0.6; stable)
+
+   - Once you have both R and Rstudio, open Rstudio.
+   - In the console write 'install.packages("wallace") and hit enter
+   *A note that this will take R quite a while to download so set aside at least 20 minutes for this*
+
+3. Once Wallace is installed (you'll notice in Rstudio the stop button will disappear), you can try and run it. To do this:
+
+   - In the console write "library(wallace)" and hit enter
+   - Then write "run_wallace()" and hit enter. Make sure you have a browser open because the Wallace page will open through your browser.
+
 
 # Data for workshop
 *During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.*
