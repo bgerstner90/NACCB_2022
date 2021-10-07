@@ -58,7 +58,7 @@ Please take the pre- and post-workshop surveys. They really help us!
 - [Download Olinguito data here](https://drive.google.com/drive/folders/11E2Dt1Y1BLTE5t0IvQEnUSDagckhvv5M?usp=sharing)
 
 # Workshop Presentation
-- [Presentation link](https://docs.google.com/presentation/d/10MJIFYx8z3u4iNgliQJuRPkjfgEyfNLL/edit?usp=sharing&ouid=116531890071087405697&rtpof=true&sd=true)
+- [Presentation link](https://drive.google.com/file/d/1OmnUX2I_OqlesMKJIVUE5oLXkoSSI5OF/view?usp=sharing)
 
 
 # Wallace Specific Resources
