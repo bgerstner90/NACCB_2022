@@ -17,9 +17,11 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 - Place: Zoom
 
 # Workshop Schedule
-- 1:00 - 2:00: Intro to SDMs & Applications
-- 2:00 - 2:30: Wallace overview
-- 2:30 - 4:00: Working with Wallace
+- 1:00 - 2:00: Intro to SDMs, applications, Wallace overview
+- 2:00 - 2:10: Wallace set-up
+- 2:10 - 3:10: Wallace run through in breakout groups
+- 3:10 - 3:30: Report back on your SDMs
+- 3:30 - 4:00: New Wallace modules & last questions
 
 # Pre- and Post-Workshop Survey Links
 Please take the pre- and post-workshop surveys. They really help us!
@@ -55,6 +57,8 @@ Please take the pre- and post-workshop surveys. They really help us!
 *During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.*
 - [Download Olinguito data here](https://drive.google.com/drive/folders/11E2Dt1Y1BLTE5t0IvQEnUSDagckhvv5M?usp=sharing)
 
+# Workshop Presentation
+- [Presentation link](https://docs.google.com/presentation/d/10MJIFYx8z3u4iNgliQJuRPkjfgEyfNLL/edit?usp=sharing&ouid=116531890071087405697&rtpof=true&sd=true)
 
 
 # Wallace Specific Resources
