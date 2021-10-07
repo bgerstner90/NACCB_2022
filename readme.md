@@ -6,7 +6,7 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 
 
 # Organizers
-- Beth E. Gerstner, Michigan State University
+- Beth E. Gerstner, Michigan State University (gerstn11@msu.edu)
 - Samuel Chang, Pace University 
 - Bethany Johnson, City College of New York, CUNY
 - Gonzalo Pinilla-Buitrago, City College of New York, CUNY
@@ -57,8 +57,9 @@ Please take the pre- and post-workshop surveys. They really help us!!
 *During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.*
 - [Download Olinguito data here](https://drive.google.com/drive/folders/11E2Dt1Y1BLTE5t0IvQEnUSDagckhvv5M?usp=sharing)
 
-# Workshop Presentation
-- [Presentation link](https://drive.google.com/file/d/1OmnUX2I_OqlesMKJIVUE5oLXkoSSI5OF/view?usp=sharing)
+# Workshop Presentation & recording
+- [Presentation link](https://drive.google.com/file/d/1R4NHUyPHjqRQy3ls5MAkkAJZQ4xLYJKZ/view?usp=sharing)
+- [Recording link](https://drive.google.com/file/d/1WoYwG4-rxhonUa0av_VjDzlm35_Bxr2o/view?usp=sharing)
 
 
 # Wallace Specific Resources
