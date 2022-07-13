@@ -6,8 +6,8 @@ Species distribution modeling (SDM) enables conservation scientists to make rang
 
 
 # Organizers
-- Jamie M. Kass, Okinawa Institute of Science and Technology Graduate University
-- Beth E. Gerstner, Michigan State University (gerstn11@msu.edu)
+- Jamie M. Kass, Okinawa Institute of Science and Technology Graduate University (JAMIE.KASS@oist.jp)
+- Beth E. Gerstner, Michigan State University 
 - Samuel Chang, Pace University 
 - Bethany Johnson, City College of New York, CUNY
 - Mary E. Blair, American Museum of Natural History
