@@ -27,7 +27,7 @@ Species distribution modeling (SDM) enables conservation scientists to make rang
 - 11:45 – 12:00: Preview of new v3 features for conservation
 
 
-# Pre- and Post-Workshop Survey Links
+# Pre-Workshop Survey Link
 Please take the pre- and post-workshop surveys. They really help us!!
 
 - [Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSfWHHjgWtrJJ-ThQ59_sd5MOjxh5Mxrh32kYTDXITDmgSuQAA/viewform)
