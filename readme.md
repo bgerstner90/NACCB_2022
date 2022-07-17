@@ -62,7 +62,7 @@ Please take the pre- and post-workshop surveys. They really help us!!
 
 # Wallace Specific Resources
 - [Wallace homepage](https://wallaceecomod.github.io/)
-- [Link to Wallace How-to Vignette](https://wallaceecomod.github.io/vignettes/wallace_vignette.html](https://wallaceecomod.github.io/wallace/articles/tutorial-v2.html)
+- [Link to Wallace How-to Vignette](https://wallaceecomod.github.io/wallace/articles/tutorial-v2.html)
 
 
 
